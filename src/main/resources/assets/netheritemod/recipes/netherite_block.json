@@ -1,0 +1,40 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    },
+    {
+      "item": "netheritemod:netherite_ingot"
+    }
+  ],
+  "result":
+  {
+    "item": "netheritemod:netherite_block",
+    "count": 1
+  }
+}
